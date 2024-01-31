@@ -1,0 +1,22 @@
+{
+    "Platform Details": {
+        "System Architecture": [
+            "64bit",
+            "WindowsPE"
+        ],
+        "Machine": "AMD64",
+        "Processor": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",
+        "System": "Windows",
+        "Version": "10.0.22621"
+    },
+    "Storage Details": {
+        "SSD": [
+            {
+                "Drive": "C:\\",
+                "Model": "Mock SSD Model",
+                "Serial Number": "Mock Serial Number"
+            }
+        ],
+        "HBA": []
+    }
+}
